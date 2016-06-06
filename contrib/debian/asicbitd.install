@@ -1,0 +1,2 @@
+debian/bin/asicbitd usr/bin
+src/asicbitd usr/lib/asicbit

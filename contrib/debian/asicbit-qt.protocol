@@ -1,0 +1,11 @@
+[Protocol]
+exec=asicbit-qt '%u'
+protocol=asicbit
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=asicbit
+Comment=asicbit P2P Cryptocurrency
+Comment[fr]=asicbit, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=asicbit, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/asicbit-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/asicbit;
+Categories=Office;
